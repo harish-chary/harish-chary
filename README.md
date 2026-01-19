@@ -6,11 +6,11 @@
 <br>
 <div>
   <!-- ### 👨‍💻 About Me : -->
-  <p>I am a Software Developer</p>
+  <p>I'm a Software Developer with 3+ years of industry experience and a strong foundation in AI/ML and Data Analytics, currently pursuing a Master’s degree in Artificial Intelligence.</p>
   
   <p>I have been coding my way through life. I'm a huge programming enthusiast who loves to learn new stuff (even if it's not for work right now). That means you'll find a bunch of random projects in my repos – my playground for exploring and tinkering.</p>
   
-  - :telescope: I'm currently working as a Graduate Research Assistant.
+  - :telescope: Currently working as a Graduate Research Assistant, conducting research on neurodivergent mind modeling in virtual reality laboratory environments.
   - :zap: In my free time, I solve problems and read tech articles.
   - 🤝 I'm interested in finding ways to contribute my skills and learn from others in the community.
   - 🌐 Check out my portfolio: <a href="https://harish-chary.vercel.app/" target="_blank">harish-chary.vercel.app/</a> 
