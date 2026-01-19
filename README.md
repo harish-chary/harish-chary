@@ -1,7 +1,8 @@
 ### Hi there! I am Harish Chary 👋
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/harish-chary"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/harish-chary" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://harish-chary.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=world&logoColor=white" alt="Portfolio Website"/></a>
 </div>
 <br>
 <div>
